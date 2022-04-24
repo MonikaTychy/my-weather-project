@@ -16,7 +16,7 @@ a {
   border: 1px solid #000;
   border-radius: 10px;
   box-shadow: 5px 5px 8px 0px;
-  background-image: url("file:///D:/Monia/Shecodes/plus/my-weather-project/images/sky.jpg");
+  background-image: url("images/sky.jpg");
   background-position: 100%;
   background-size: cover;
 }
